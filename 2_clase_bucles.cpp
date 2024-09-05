@@ -11,12 +11,12 @@ void bin() {
 
 int main () {
     bin();
-
-
     return 0;
-}
 
+
+}
 /*
+
 * MCD(a,b)
 * Maximo comun divisor
 * 100, 60
