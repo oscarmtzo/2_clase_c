@@ -1,0 +1,19 @@
+total 212
+-rw-rw-rw- 1 codespace root         11 Sep  3 00:09 README.md
+-rwxrwxrwx 1 codespace codespace 16824 Sep  3 00:22 main
+-rwxrwxrwx 1 codespace codespace 16960 Sep  3 00:58 2_clase
+-rwxrwxrwx 1 codespace codespace 16736 Sep  3 01:10 a.out
+-rwxrwxrwx 1 codespace codespace 16744 Sep  3 01:12 2_clase_bucles
+-rw-rw-rw- 1 codespace codespace  1264 Sep  3 01:16 2_clase.cpp
+-rw-rw-rw- 1 codespace codespace   598 Sep  5 00:47 3_clase.c
+-rwxrwxrwx 1 codespace codespace 16696 Sep  5 00:47 3_clase
+-rwxrwxrwx 1 codespace codespace 16800 Sep  5 01:11 3_clase_punto_flotante
+-rw-rw-rw- 1 codespace codespace  1570 Sep  5 01:35 3_clase_punto_flotante.c
+-rw-rw-rw- 1 codespace codespace   186 Sep  5 01:54 ejemplo_principal.c
+-rwxrwxrwx 1 codespace codespace 19416 Sep  5 02:06 ejemplo_principal
+-rw-rw-rw- 1 codespace codespace  2470 Sep 10 01:42 4_clase_cadenas_char.c
+-rwxrwxrwx 1 codespace codespace 17008 Sep 10 01:42 4_clase_cadenas_char
+-rw-rw-rw- 1 codespace codespace   407 Sep 10 16:22 2_clase_bucles.cpp
+-rwxrwxrwx 1 codespace codespace 16832 Sep 12 01:20 5_clase
+-rw-rw-rw- 1 codespace codespace   313 Sep 12 01:41 5_clase.c
+-rw-rw-rw- 1 codespace codespace     0 Sep 19 19:07 recent_logs.txt
